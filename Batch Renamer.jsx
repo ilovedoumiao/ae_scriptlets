@@ -2,7 +2,7 @@
  * Simple batch comp and layer renamer
  * through a simple UI.
  *
- * @author github.com/idlepickle
+ * @author github.com/ilovedoumiao
  * @version 1.0
  */
 function showui() {
