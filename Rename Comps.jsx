@@ -1,3 +1,10 @@
+/**
+ * Simple mass comps renamer
+ * through a simple UI.
+ *
+ * @author github.com/ilovedoumiao
+ * @version 1.0
+ */
 function showui() {
 	var e = new Window("dialog", "Rename Compositions", void 0);
 	(a = e.add("group")).spacing = 4, a.orientation = "row", a.alignment = "left", a.add("statictext", void 0, "Search for:").preferredSize.width = 70;
