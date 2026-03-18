@@ -2,7 +2,7 @@
  * Searches for specified layers to apply a new label color
  * through a simple UI.
  *
- * @author github.com/idlepickle
+ * @author github.com/ilovedoumiao
  * @version 1.0
  */
 function changeLayerColor(e, a, r) {
