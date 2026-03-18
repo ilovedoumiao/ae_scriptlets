@@ -3,7 +3,7 @@
  * (Background Color, Resolution, FPS and Duration)
  * through a simple UI.
  *
- * @author github.com/idlepickle
+ * @author github.com/ilovedoumiao
  * @version 1.0 - Initial release.
  * @version 1.1 - Added option to change Comp background color.
  * @version 1.2 - Added option to change Comp dimensions + FPS dropdown + bugfixes.
