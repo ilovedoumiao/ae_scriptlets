@@ -2,7 +2,7 @@
  * Mass change compositions background color
  * through a simple UI.
  *
- * @author github.com/idlepickle
+ * @author github.com/ilovedoumiao
  * @version 1.0
  */
 function changeCompBG(o, e, n) {
