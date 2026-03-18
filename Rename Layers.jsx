@@ -3,7 +3,7 @@
  * through a simple UI.
  * (Does not seem to work for certain shape layers)
  *
- * @author github.com/idlepickle
+ * @author github.com/ilovedoumiao
  * @version 1.0
  */
 function renameLayers(e, a, n) {
