@@ -2,7 +2,7 @@
  * Adds a Blink or Flicker effect to selected layers.
  * through a simple UI.
  *
- * @author github.com/idlepickle
+ * @author github.com/ilovedoumiao
  * @version 1.1
  */
 function blinkorflicker(i, t, e, a, n, r) {
