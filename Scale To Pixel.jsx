@@ -2,7 +2,7 @@
  * Scale layer(s) to a specific pixel width and height
  * through a simple UI.
  *
- * @author github.com/idlepickle
+ * @author github.com/ilovedoumiao
  * @version 1.0
  */
  function showui() {
