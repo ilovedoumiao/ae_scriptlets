@@ -2,7 +2,7 @@
  * Duplicate selected layer(s) a specified number of times
  * through a simple UI.
  *
- * @author github.com/idlepickle
+ * @author github.com/ilovedoumiao
  * @version 1.0
  */
 function dupSelectLayers(e) {
