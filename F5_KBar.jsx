@@ -3,7 +3,7 @@
  * Here's a simple KBar scriplet to do exactly that for
  * selected layers. Does NOT do precomps recursively.
  *
- * @author github.com/idlepickle
+ * @author github.com/ilovedoumiao
  * @version 1.0 - Initial release.
  */
 (function() {
