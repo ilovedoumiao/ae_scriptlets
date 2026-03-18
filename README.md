@@ -1,4 +1,4 @@
-# Idlepickle's Scriptlets
+# AE Scriptlets
 
 Simple and small AE scripts written for various actions I realized I need while working on freelance projects.  
 Could be useful for someone else out there.  
